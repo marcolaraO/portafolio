@@ -1,0 +1,27 @@
+DESCARGAR NODE.JS
+frontend (HTML, CSS, JS) y tu backend (Node.js + Express + MongoDB).
+
+--------------------------------------------------------------------------------------------------------
+SI LES DA ERROR AL CREAR BASE DE DATOS 
+ Set-ExecutionPolicy RemoteSigned
+
+Cambio de directiva de ejecución
+La directiva de ejecución te ayuda a protegerte de scripts en los que no confías. Si cambias dicha directiva, podrías
+exponerte a los riesgos de seguridad descritos en el tema de la Ayuda about_Execution_Policies en
+https:/go.microsoft.com/fwlink/?LinkID=135170. ¿Quieres cambiar la directiva de ejecución?
+[S] Sí  [O] Sí a todo  [N] No  [T] No a todo  [U] Suspender  [?] Ayuda (el valor predeterminado es "N"): S
+PS C:\WINDOWS\system32>
+EN EL POWERSHELL Y FUNCIONA
+--------------------------------------------------------------------------------------------
+
+base de datos Ocupada MONGO. estat todo en la carpteta BACKEND
+
+PARA CONECTARSE A LA BASE DE DATOS node server.js
+
+Si todo está bien, deberías ver:
+
+bash
+Copiar
+Editar
+Conectado a MongoDB
+INGRESAN A PARA VER LA BASE DE DATOS http://localhost:3000
